@@ -10,8 +10,10 @@ Este proyecto trata sobre emular dos informes, los cuales serán generados a tra
 *Ambos scripts generan un archivo txt, con el contenido de su informe, en el mismo directorio o carpeta donde esten alojados dichos ejecutables.*
 
 ## Indice
-1. [Informe Temperaturas](https://github.com/lmrs-06/ProyectoPython/blob/main/script1.py)
-2. [Informe COVID](https://github.com/lmrs-06/ProyectoPython/blob/main/script2.py)
+1. [Listas: Informe Temperaturas](https://github.com/lmrs-06/ProyectoPython/blob/main/script1.py)
+2. [Temperaturas resultado](https://github.com/lmrs-06/ProyectoPython/blob/main/imagenes/resultado1.PNG)
+3. [Cadenas: Informe COVID](https://github.com/lmrs-06/ProyectoPython/blob/main/script2.py)
+4. [COVID resultado](https://github.com/lmrs-06/ProyectoPython/blob/main/imagenes/resultado2.PNG)
 
 ## Referencias
 [Pagina de Python](https://docs.python.org/es/3/py-modindex.html)
@@ -19,4 +21,4 @@ Este proyecto trata sobre emular dos informes, los cuales serán generados a tra
 Temario de Python obtenido en el curso.
 
 ## Licencia 
-![Licencia](https://github.com/lmrs-06/ProyectoPython/blob/main/licencia.png)
+![Licencia](https://github.com/lmrs-06/ProyectoPython/blob/main/imagenes/licencia.png)
