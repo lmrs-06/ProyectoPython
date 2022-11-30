@@ -7,7 +7,7 @@ Este proyecto trata sobre emular dos informes, los cuales serán generados a tra
 
 -El informe COVID consta de, dada la secuencia de la nueva variante covid, comprobar si la cadena de ADN que generamos aleatoriamente contiene dicha secuencia. De ser asi, nos mostrará en el informe que el paciente es positivo y de lo contrario, mostrará que es negativo. 
 
-*Ambos scripts generan un archivo txt, con el contenido de su informe, en el mismo directorio o carpeta donde esten alojados dichos scripts.*
+*Ambos scripts generan un archivo txt, con el contenido de su informe, en el mismo directorio o carpeta donde esten alojados dichos ejecutables.*
 
 ## Indice
 1. [Informe Temperaturas](https://github.com/lmrs-06/ProyectoPython/blob/main/script1.py)
