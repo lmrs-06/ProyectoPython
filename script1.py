@@ -16,8 +16,8 @@ print( )
 print("¡Aviso!")
 print("A partir de los 100ºC, se detendra el escaneo")
 print( )
-#Principal: Aqui crearemos la variable que nos permitirá ingresar temperaturas y ponerle un tope a dichos ingresos
-# + repitiendose hasta que el ingreso sea superior a 100, ya que ahi se acabaria el condicionante que permite el bucle.
+#Principal: Aqui crearemos la variable que nos permitirá ingresar temperaturas, obligandolas a ser numeros enteros y ponerle un tope 
+#a dichos ingresos repitiendose hasta que el ingreso sea superior a 100, ya que ahi se acabaria el condicionante que permite el bucle.
 while True:	
 	temp = int and float(input("Indica la temperatura de estos dias: "))
 	if temp < 100:
