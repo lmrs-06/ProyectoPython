@@ -3,7 +3,7 @@ import time
 import os
 os.system("clear")
 #Prueba de usuario
-print("Hecho por Luis MIguel Rodriguez Suarez")
+print("Hecho por Luis Miguel Rodriguez Suarez")
 print( )
 #Variables
 fecha = time.strftime("%x")
