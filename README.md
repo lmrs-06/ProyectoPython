@@ -1,6 +1,6 @@
 # Proyecto: Python
 ## Descripción.
-Este proyecto trata sobre emular dos informes, los cuales seraán generados a traves de modulos, librerias y comandos de Python.
+Este proyecto trata sobre emular dos informes, los cuales serán generados a traves de modulos, librerias y comandos de Python.
 
 ## Explicación del proyecto.
 -El informe de temperaturas consta de ingresar distintos valores inferiores a 100ºC para posteriormente calcular su maxima, minima, media y numero de ingresos efectuados. En el caso de ingresar una temperatura igual o superior a 100, el registro terminará y generará un informe con los datos introducidos.
