@@ -25,10 +25,12 @@ generado="".join(aleatorio)
 resultado = ""
 if newvariante in generado: #se comprueba si el paciente es positivo o no mediante buscar la nueva variante con el adn que hemos generado
     resultado = "Positivo: Sí se encuentra restos de la variante COVID."
+    final = "Positivo"
 else:
     resultado = "Negativo: No se encuentra restos de la variante COVID."
+    final = "Negativo"
 #Tupla con redireccion a fichero .txt
-tupla=(fecha,hora,codigo,resultado)
+tupla=(fecha,hora,codigo,final)
 genera=list(tupla)
 file=open("inf-covid.txt","a")
 file.write('%s' % genera +'\n')
